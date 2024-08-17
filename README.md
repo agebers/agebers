@@ -1,4 +1,4 @@
-💬 This is my personal repository, some stuff working in my spare time.
+💬 This is my personal repository, some stuff working on in my spare time.
 
 🌱 I’m currently learning ...
 
